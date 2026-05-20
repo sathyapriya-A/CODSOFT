@@ -1,0 +1,40 @@
+body{
+    background:#f4f4f4;
+    font-family:Arial;
+    text-align:center;
+}
+header{
+    background:#6c63ff;
+    color:white;
+    padding:40px;
+}
+
+h1{
+    font-size: 40px;
+}
+section{
+    padding: 30px;
+}
+.project-card{
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.skills{
+    text-align: center;
+    padding: 50px;
+}
+.skill-box{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+.box{
+    background-color: #6c63ff;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 8px;
+}
+
